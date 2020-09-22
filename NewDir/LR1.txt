@@ -54,3 +54,5 @@
 8) Сравнение изменений в файлай (git diff)
 
 9) Удаление - git rm "name.txt" -> rm 'name.txt'
+
+10) Перемещение - mv "name.txt" NewDir/
